@@ -1,11 +1,7 @@
 # 🐍 35 Python Projects Collection 🚀
 
-<p align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python Logo" width="200"/>
-</p>
 
-<h3 align="center">A collection of 35 fun Python projects for beginners!</h3>
-<p align="center">Based on the YouTube Crash Course by coded-t </p>
+
 
 ## 📚 About
 
